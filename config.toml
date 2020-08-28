@@ -4,7 +4,7 @@ defaultContentLanguage = "pt-br"
 title = "Airsoft MS"
 theme = "hugo-theme-dream"
 disablePathToLower = true
-
+summaryLength = 20
 # copyright = ""
 
 # googleAnalytics = ""
