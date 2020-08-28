@@ -1,8 +1,9 @@
 baseurl = "https://jarzamendia.github.io/"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
 title = "Airsoft MS"
 theme = "hugo-theme-dream"
+disablePathToLower = true
 
 # copyright = ""
 
@@ -18,17 +19,16 @@ theme = "hugo-theme-dream"
   linkColor = "seagreen"
 
   author = "Airsoft MS"
-  description = "Página para distribuição de missões!"
+  description = "Esta página foi criada para a distribuição de missões! Use por sua conta e risco."
   avatar = "/me/jar.jpg"
-  motto = "Si vis pacem, para bellum"
-  
+  motto = "Esta página foi criada para a distribuição de missões! Use por sua conta e risco."
   email = "jearzamendia@gmail.com"
   # github = ""
   # linkedin = ""
   # codepen = ""
   # stackoverflow = ""
 
-  siteStartYear = 2020
+  siteStartYear = 1960
 
   # favicon = "/favicon.ico"
 
