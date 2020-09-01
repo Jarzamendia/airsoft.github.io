@@ -3,11 +3,11 @@ title: Guerra às drogas
 date: 2020-06-09T19:28:26+04:00
 lastmod: 2020-06-09T19:28:26+04:00
 author: Jarzamendia
-cover: /img/Buy-Me-A-Coffee.jpg
+cover: /img/covers/guerra_as_drogas.jpg
 categories:
   - Missoes
 tags:
-  - Rouba bandeira
+  - Rouba Bandeira
 ---
 
 A inteligência do exército brasileiro obteve informações de que um laboratório clandestino de produção de drogas em território estrangeiro próximo ao território nacional foi convertido em produtor de armas químicas e biológicas. 

@@ -5,6 +5,8 @@ title = "Airsoft MS"
 theme = "hugo-theme-dream"
 disablePathToLower = true
 summaryLength = 20
+enableSearch = true
+
 # copyright = ""
 
 # googleAnalytics = ""

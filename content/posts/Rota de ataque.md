@@ -3,11 +3,11 @@ title: Rota de ataque
 date: 2020-06-09T19:28:26+04:00
 lastmod: 2020-06-09T19:28:26+04:00
 author: Jarzamendia
-cover: /img/Buy-Me-A-Coffee.jpg
+cover: /img/covers/rota_de_ataque.jpg
 categories:
   - Missoes
 tags:
-  - Rouba bandeira
+  - Rouba Bandeira
 ---
 
 Um helicóptero UH-60 Black Hawk, que se deslocava para uma missão de ataque contra alvos terroristas, foi surpreendido por baterias antiaéreas em uma pedreira na região centro oeste do Brasil.

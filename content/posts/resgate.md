@@ -3,11 +3,11 @@ title: O Resgate
 date: 2020-06-09T19:28:26+04:00
 lastmod: 2020-06-09T19:28:26+04:00
 author: Jarzamendia
-cover: /img/Buy-Me-A-Coffee.jpg
+cover: /img/covers/resgate.jpg
 categories:
   - Missoes
 tags:
-  - Rouba bandeira
+  - Rouba Bandeira
 ---
 
 Em represália a mudanças na política de combate ao tráfico de drogas e crime organizado do novo governo, uma conhecida organização criminosa desencadeou uma série de ataques contra forças de segurança pública e sociedade em geral. Estes ataques visam gerar o caos e forçar as autoridades a afrouxar as novas leis. Um comboio do Exército foi atacado e encurralado em uma área industrial próxima a favelas. Com vários soldados feridos, alguns em estado grave, eles conseguiram manter uma pequena defesa que impede o avanço dos criminosos. Uma equipe de operações especiais foi designada para resgatar as tropas sitiadas. Eles devem resgatar todos os soldados, com prioridade aos feridos. Qualquer homem que ficar para traz afetará de forma gritante a opinião pública a respeito das medidas tomadas pelo novo governo.

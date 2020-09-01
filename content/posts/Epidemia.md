@@ -3,11 +3,11 @@ title: Epidemia
 date: 2020-06-09T19:28:26+04:00
 lastmod: 2020-06-09T19:28:26+04:00
 author: Jarzamendia
-cover: /img/Buy-Me-A-Coffee.jpg
+cover: /img/covers/hazmat.jpg
 categories:
   - Missoes
 tags:
-  - Rouba bandeira
+  - Rouba Bandeira
 ---
 
 Uma doença assombra a humanidade! Uma doença terrível e até então sem cura, que afeta até mesmo os mais resistentes. Todos os países lutam para descobrir uma cura.
