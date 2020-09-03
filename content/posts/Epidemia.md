@@ -10,28 +10,19 @@ tags:
   - Rouba Bandeira
 ---
 
-Uma doença assombra a humanidade! Uma doença terrível e até então sem cura, que afeta até mesmo os mais resistentes. Todos os países lutam para descobrir uma cura.
+Uma doença assombra a humanidade! Uma doença terrível e até então sem cura, que afeta até mesmo os mais resistentes. Todos os países agora lutam para descobrir uma vacina a tempo de salvar suas populações. 
 
-Uma cepa do vírus primordial foi encontrada em uma floresta próxima a fronteira de dois países. Com ele, um conhecido cientista poderá criar um vacina, ou mesmo descobrir a cura. 
+Pesquisadores descobriarm uma cepa primordial do virus que pode ser a chave da criação da vacina. O unico problema é que ela se encontra na fronteira de dois paises sabidamente hostis. Agora o mundo todo tentará conseguir uma amostra para avançar nas pesquisas para a criação da vacina.
 
-Para isto, o cientista deve trabalhar nas amostras ainda no local, pois o vírus rapidamente morreria durante um longo transporte.
-
-Ambos os governos alegam serem donos da região e reivindicam o posse da cepa do vírus.
-
-Agora tropas de ambos os países se preparam para um inevitável confronto pela cura.
+# Informações
+ - Duração: 1 hora.
+ - Times: 2 ou mais
+ - Tipo: Rouba Bandeira
 
 # Objetivos
+Este é um jogo de estilo Rouba bandeira. Uma caixa com a cepa do virus deve ser escondida em algum lugar do campo. Todos os times que participarem devem tentar encontrar a caixa e a transportarem em segurança para suas respectivas bases.
 
-Ambas as equipes devem:
+O jogador que estiver carregando a caixa não devem utilizar armas.
 
-Recuperar uma amostra do Vírus.
-Destruir o QG inimigo.
-
-
-Exército A
-Unir o cientista e a amostra do Vírus em seu QG por 10 minutos.
-
-
-Exército B
-Eliminar o cientista.
-Recuperar os equipamentos em posse do cientista.
+# Times
+Varios times podem participar do jogo.
